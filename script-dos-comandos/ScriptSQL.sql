@@ -1,0 +1,7 @@
+CREATE DATABASE `GAME OF THRONES`;
+
+USE `GAME OF THRONES`;
+
+set autocommit=0;
+
+COMMIT;
