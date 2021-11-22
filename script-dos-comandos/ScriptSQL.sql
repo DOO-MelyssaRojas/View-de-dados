@@ -9,7 +9,7 @@ COMMIT;
 CREATE TABLE `PERSONAGENS` (
   `NOME_DO_ATOR` varchar(200) PRIMARY KEY,
   `PERSONAGEM` varchar(200),
-  `APARICOES` int,
+  `APARICOES` varchar(2),
   `PRIMEIRA_APARICAO` varchar(50),
   `ULTIMA_APARICAO` varchar(50)
 );
