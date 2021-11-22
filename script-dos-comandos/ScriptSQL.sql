@@ -5,3 +5,25 @@ USE `GAME OF THRONES`;
 set autocommit=0;
 
 COMMIT;
+
+CREATE TABLE `PERSONAGENS` (
+  `ID` int PRIMARY KEY,
+  `PERSONAGEM` varchar(200),
+  `APARICOES` int,
+  `PRIMEIRA_APARICAO` varchar(50),
+  `ULTIMA_APARICAO` varchar(50)
+);
+
+CREATE TABLE `EPISODIOS` (
+  `ID` int PRIMARY KEY,
+  `NOME_DO_EP` varchar(200),
+  `TEMPORADA` varchar(50),
+  `LANCAMENTO` varchar(50),
+  `TEMPO_DE_DURACAO` int,
+  `DIRETOR` varchar(200),
+  `RATINGS` int
+);
+
+COMMIT;
+
+
