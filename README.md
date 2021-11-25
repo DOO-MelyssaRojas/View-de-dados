@@ -29,6 +29,8 @@
 
 - Dashboard no diretório assets com arquivo de extensão pbix;
 
+![image](https://user-images.githubusercontent.com/93003236/143501166-987c19de-107d-4491-b1ad-992490031202.png)
+
 ### LINK DA APRESENTAÇÃO DOS SLIDES:
 
 - [link do conteúdo](https://docs.google.com/presentation/d/1_2Rqqt8v7jE7Ns8qq1EjOTvAQ4nL6YWzt0YkYYvwyco/edit?usp=sharing)
