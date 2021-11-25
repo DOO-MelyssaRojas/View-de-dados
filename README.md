@@ -4,6 +4,17 @@
 
 -  Visualização e análise exploratória de um conjunto de dados da série Game of Thrones; 
 
+### PERGUNTAS DA ANÁLISE:
+
+- DIRETORES COM OS MELHORES RATINGS ?
+- A DURAÇÃO DO EPISÓDIO TEM ALGUMA RELAÇÃO COM O RATING ?
+- QUANTOS PERSONAGENS A SÉRIE TEM ?
+- QUANTAS TEMPORADAS A SÉRIE POSSUI ?
+- PERSONAGEM DE MAIOR APARIÇÃO ?
+- TEMPO DE DURAÇÃO DA SÉRIE ?
+- QUAIS PERSONAGENS VIVERAM ATÉ O FIM DA SÉRIE ?
+- O ATOR ESTRELA 1 TEM RELAÇÃO COM O NÚMERO DE APARIÇÕES ?
+
 ### DIVISÃO DE FUNÇÕES:
 
 - Melyssa: Esquematização e modelagem;
